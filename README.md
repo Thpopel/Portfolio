@@ -10,5 +10,5 @@ This portfolio it an opportunity for me to showcase some of the intro-level codi
 
 ##### Staying Motivated while Learning to Code:
 
-Questions? Please email me at: 
+_Questions? Please email me at: 
 _[thpope@dal.ca](mailto:th781530@dal.ca)_
