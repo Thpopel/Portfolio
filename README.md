@@ -1,4 +1,5 @@
-## Hello and welcome to my portfolio. Here I will showcase some of the intro-level coding I have been working on over the past couple of months.
+## Hello and welcome to my portfolio:
+- Here I will showcase some of the intro-level coding I have been working on over the past couple of months.
 
 ## This Portfolio will take a look at the following:
 - Staying Motivated while Learning to Code
