@@ -1,4 +1,4 @@
-## Hello and Welcome!:
+## Hello and Welcome!
 This portfolio it an opportunity for me to showcase some of the intro-level coding skills I have been working on over the past couple of months.
 
 ##### Together we will take a look at the following:
