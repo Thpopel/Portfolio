@@ -12,7 +12,21 @@ To begin this portfolio I'd like to start by showing a demonstration on slicing 
 
 **Please view my verbal demonstration on 1D array slicing:** [Demonstration Video](https://web.microsoftstream.com/video/74a2f817-cb5b-4a93-a108-637a08793719)
 
-**Jargon listed in this portfolio:**
+After viewing my demonstration, I'd like to highlight a couple key takeaways. These include:
+- Slicing from a 1D list/array takes the following form: `[X, Y]`
+- **X** is the first index value where we would like to begin slicing from, and it's corresponding value in the list or array is **included**. 
+- **Y** is the second index value we would like to end our slice at, and its corresponding value in the list or array is **not included**. 
+- **Index values** start at **zero**. 
+
+With this in mind, here are some further examples. 
+
+**1D Array:**
+
+**2D Array:**
+
+**Practical Example:**
+
+**Jargon Listed in this Portfolio:**
 - **Logical errors:** Logical errors are errors that do not cause the program to terminate abnormally, but instead are mistakes in a program's code that cause it to produce an unexpected or incorrect response or calculation. 
 
 _Questions? Please email me at_: [tpope@dal.ca](mailto:th781530@dal.ca)
