@@ -1,5 +1,5 @@
 # Hello and Welcome!
-This portfolio it an opportunity for me to showcase some of the intro-level coding skills I have been working on over the past couple of months. 
+This portfolio it an opportunity for me to showcase some of the coding skills I have been working on over the past couple of months. 
 
 **Together, we will take a look at the following:**
 - Slicing 1D and 2D Lists/Arrays
@@ -18,15 +18,39 @@ After viewing my demonstration, I'd like to highlight a couple key takeaways. Th
 - **Y** is the second index value we would like to end our slice at, and its corresponding value in the list or array is **not included**. 
 - **Index values** start at **zero**. 
 
-**With this in mind, here are some further examples:** 
+**With this in mind, here are some further simple examples:** 
 
 1D Array:[Example of 1D Array](1D_Array.md)
 
 2D Array:[Example of 2D Array](2D_Array.md)
 
-**Practical Example:**
+**To demonstrate this skill in practice, here is a realistic example using slicing and the Pandas dataframe `LOC method`:** 
+
+Practical Example: 
+
+
+
+## Slicing 1D and 2D Lists/Arrays:
+
+
+## Descriptive Statistics:
+
+
+## Combining it all Together:
+
+
+
+
+
+
+
+
+
+
+
 
 **Jargon Listed in this Portfolio:**
 - **Logical errors:** Logical errors are errors that do not cause the program to terminate abnormally, but instead are mistakes in a program's code that cause it to produce an unexpected or incorrect response or calculation. 
+- **Pandas LOC method:** The LOC method returns rows from a dataframe given an inputted slice. 
 
 _Questions? Please email me at_: [tpope@dal.ca](mailto:th781530@dal.ca)
