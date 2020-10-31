@@ -33,11 +33,10 @@ Descriptive statistic are another vital component of data analysis. By utilizing
 
 Some methods I'll be using in my example of manipulating a dataframe include:
 - `head`: Provides the option to view the first n items in our dataframe.
-- `tail`: Provides the option to view the last n items in our dataframe.
 - `type`: Provides the type of data we are working with
 - `describe`: Provides an overall view of the descriptive statistics 
--  `mean`: Calculates the mean value of non-null entries
--  `count`: Provides the bumber of non-null observations
+- `mean`: Calculates the mean value of non-null entries
+- `count`: Provides the bumber of non-null observations
 
 ### Exploratory Data Analysis:
 
