@@ -18,11 +18,11 @@ After viewing my demonstration, I'd like to highlight a couple key takeaways. Th
 - **Y** is the second index value we would like to end our slice at, and its corresponding value in the list or array is **not included**. 
 - **Index values** start at **zero**. 
 
-With this in mind, here are some further examples: 
+**With this in mind, here are some further examples:** 
 
-**1D Array:**[Example of 1D Array](1D array.md)
+1D Array:[Example of 1D Array](1D_Array.md)
 
-**2D Array:**[Example of 2D Array](2D array.md)
+2D Array:[Example of 2D Array](2D_Array.md)
 
 **Practical Example:**
 
