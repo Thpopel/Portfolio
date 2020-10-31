@@ -29,11 +29,10 @@ After viewing my demonstration, I'd like to highlight a couple key takeaways. Th
 Practical Example using slicing and LOC: [Practical Example](PracticalExample.md)
 
 
-
-## Slicing 1D and 2D Lists/Arrays:
-
-
 ## Descriptive Statistics:
+
+
+## Exploratory Data Analysis:
 
 
 ## Combining it all Together:
