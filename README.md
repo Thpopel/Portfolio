@@ -26,7 +26,7 @@ After viewing my demonstration, I'd like to highlight a couple key takeaways. Th
 
 **To demonstrate this skill in practice, here is a realistic example using slicing and the Pandas dataframe `LOC method`:** 
 
-Practical Example: 
+Practical Example using slicing and LOC: [Practical Example](PracticalExample.md)
 
 
 
