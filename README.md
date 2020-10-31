@@ -52,7 +52,7 @@ As we can see from our calculations of total sales, the three platforms are fair
 
 ### Exploratory Data Analysis:
 I learned very early on of the benefits of **Exploratory Data Analysis (EDA)** in communicating results. Carrying on with our video game data calculations, lets visualize the results.
-- **Data visualization:** [Data visualization](DataViz.md)
+- **Data visualization:** [Data visualization](Datapic.ipynb)
 
 **Jargon Listed in this Portfolio:**
 - **Logical errors:** Logical errors are errors that do not cause the program to terminate abnormally, but instead are mistakes in a program's code that cause it to produce an unexpected or incorrect response or calculation. 
