@@ -5,7 +5,6 @@ This portfolio it an opportunity for me to showcase some of the coding skills I 
 - Slicing 1D and 2D Lists/Arrays
 - Descriptive Statistics and Manipulation of Dataframes
 - Exploratory Data Analysis
-- Combining it all Together
 
 ### Slicing 1D and 2D Lists/Arrays:
 To begin this portfolio I'd like to start by showing a demonstration on slicing values. Comprehending how to slice values from a list or an array correctly is something I learnt early on as being imperative to prevent `logical errors`. Afterwards, I will go into further simple examples of 1D and 2D slicing of lists, and provide a more realistic example. 
@@ -35,16 +34,22 @@ Some methods I'll be using in my example of manipulating a dataframe include:
 - `head`: Provides the option to view the first n items in our dataframe.
 - `type`: Provides the type of data we are working with
 - `describe`: Provides an overall view of the descriptive statistics 
-- `mean`: Calculates the mean value of non-null entries
-- `count`: Provides the bumber of non-null observations
+- `unique`: Provides a list of unique values within that column
 
-To understand the use of these methods, we'll first import a dataframe.
-Importing a data file: [Importing data]()
+**To understand the use of these methods, we'll first import a dataframe, the dataframe is a list of the highest selling video games.**
+Importing a data file: [Importing data](Import_daimport a dataframe. In this caseta.md)
+
+**Next, we'll take a look at some of the descriptive statistics using describe()**
+Describe(): 
+
+**Now that we have a datafile imported and we know what it looks like, let's filter out the Platform column we're interested in, and see the unique values. As we can see, there are quite a few unique values. Therefore, we are going to take a look at the newer platforms in the data (XBOX360, Wii, PS3):** 
+Selecting the columns and rows we're interested in: 
+
+**Lastly, let's calculate the total sales each platform has made with their collection of games in global sales, and calculate that as a percentage of a whole for all three platforms:**
+Calculating total sales, and sorting percentages: 
 
 ### Exploratory Data Analysis:
 
-
-### Combining it all Together:
 
 
 
