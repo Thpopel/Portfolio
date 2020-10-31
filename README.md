@@ -48,19 +48,11 @@ Now that we have a datafile imported and we know what it looks like, let's filte
 Lastly, let's calculate the total sales each platform has made with their collection of games in global sales, and calculate that as a percentage of a whole for all three platforms:
 - **Calculating total sales, and sorting percentages:** [Calculating data](DataCalculations.md)
 
+As we can see from our calculations of total sales, the three platforms are fairly close in global sales. It's important to note however, that the xbox360 was released a year earlier than the other platforms we are discussing. 
+
 ### Exploratory Data Analysis:
-
-
-
-
-
-
-
-
-
-
-
-
+I learned very early on of the benefits of **Exploratory Data Analysis (EDA)** in communicating results. Carrying on with our video game data calculations, lets visualize the results.
+- **Data visualization:** [Data visualization]()
 
 **Jargon Listed in this Portfolio:**
 - **Logical errors:** Logical errors are errors that do not cause the program to terminate abnormally, but instead are mistakes in a program's code that cause it to produce an unexpected or incorrect response or calculation. 
