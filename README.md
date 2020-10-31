@@ -29,7 +29,7 @@ After viewing my demonstration, I'd like to highlight a couple key takeaways. Th
 Practical Example using slicing and ILOC: [Practical Example](PracticalExample.md)
 
 ### Descriptive Statistics and Manipulation of Dataframes:
-Descriptive statistic are another vital component of data analysis. By utilizing different tools provided by different modules, we can maximize efficiency and accuracy. 
+**Descriptive statistic** are another vital component of data analysis. By utilizing different tools provided by different modules, we can maximize efficiency and accuracy. 
 
 Some methods I'll be using in my example of manipulating a dataframe include:
 - `head`: Provides the option to view the first n items in our dataframe.
@@ -37,6 +37,9 @@ Some methods I'll be using in my example of manipulating a dataframe include:
 - `describe`: Provides an overall view of the descriptive statistics 
 - `mean`: Calculates the mean value of non-null entries
 - `count`: Provides the bumber of non-null observations
+
+To understand the use of these methods, we'll first import a dataframe.
+Importing a data file: [Importing data]()
 
 ### Exploratory Data Analysis:
 
