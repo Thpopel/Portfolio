@@ -14,4 +14,4 @@ Below I have attached a video demo I created outlining a simple example of 1D sl
 
 Please view my verbal demonstration on 1D array slicing: [Demonstration Video](https://www.w3schools.com/python/numpy_array_slicing.asp#:~:text=Slicing%20in%20python%20means%20taking,of%20array%20in%20that%20dimension)
 
-_Questions? Please email me at:[tpope@dal.ca](mailto:th781530@dal.ca)
+_Questions? Please email me at_: [tpope@dal.ca](mailto:th781530@dal.ca)
