@@ -40,7 +40,7 @@ To understand the use of these methods, we'll first import a dataframe, the data
 **Importing a data file:** [Importing data](Import_daimport a dataframe. In this caseta.md)
 
 Next, we'll take a look at some of the descriptive statistics using describe()
-**Describe():**
+**Describe():** [Describing data](Describe.md)
 
 Now that we have a datafile imported and we know what it looks like, let's filter out the Platform column we're interested in, and see the unique values. As we can see, there are quite a few unique values. Therefore, we are going to take a look at the newer platforms in the data (XBOX360, Wii, PS3):
 **Selecting the columns and rows we're interested in:** [Selcting data](Sorting.md)
