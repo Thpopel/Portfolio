@@ -3,7 +3,7 @@ This portfolio it an opportunity for me to showcase some of the coding skills I 
 
 **Together, we will take a look at the following:**
 - Slicing 1D and 2D Lists/Arrays
-- Descriptive Statistics
+- Descriptive Statistics and Manipulation of Dataframes
 - Exploratory Data Analysis
 - Combining it all Together
 
@@ -24,13 +24,20 @@ After viewing my demonstration, I'd like to highlight a couple key takeaways. Th
 
 2D Array: [Example of 2D Array](2D_Array.md)
 
-**To demonstrate this skill in practice, here is a realistic example using slicing and the Pandas dataframe `LOC method`:** 
+**To demonstrate this skill in practice, here is a realistic example using slicing and the Pandas dataframe `ILOC method`:** 
 
-Practical Example using slicing and LOC: [Practical Example](PracticalExample.md)
+Practical Example using slicing and ILOC: [Practical Example](PracticalExample.md)
 
+### Descriptive Statistics and Manipulation of Dataframes:
+Descriptive statistic are another vital component of data analysis. By utilizing different tools provided by different modules, we can maximize efficiency and accuracy. 
 
-### Descriptive Statistics:
-
+Some methods I'll be using in my example of manipulating a dataframe include:
+- `head`: Provides the option to view the first n items in our dataframe.
+- `tail`: Provides the option to view the last n items in our dataframe.
+- `type`: Provides the type of data we are working with
+- `describe`: Provides an overall view of the descriptive statistics 
+-  `mean`: Calculates the mean value of non-null entries
+-  `count`: Provides the bumber of non-null observations
 
 ### Exploratory Data Analysis:
 
@@ -50,6 +57,6 @@ Practical Example using slicing and LOC: [Practical Example](PracticalExample.md
 
 **Jargon Listed in this Portfolio:**
 - **Logical errors:** Logical errors are errors that do not cause the program to terminate abnormally, but instead are mistakes in a program's code that cause it to produce an unexpected or incorrect response or calculation. 
-- **Pandas LOC method:** The LOC method returns rows from a dataframe given an inputted slice. 
+- **Pandas ILOC method:** The LOC method returns rows from a dataframe given an inputted integer slice. 
 
 _Questions? Please email me at_: [tpope@dal.ca](mailto:th781530@dal.ca)
