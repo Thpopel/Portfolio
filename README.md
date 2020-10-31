@@ -20,9 +20,9 @@ After viewing my demonstration, I'd like to highlight a couple key takeaways. Th
 
 With this in mind, here are some further examples: 
 
-**1D Array:**
+**1D Array:**[Example of 1D Array](1D array.md)
 
-**2D Array:**
+**2D Array:**[Example of 2D Array](2D array.md)
 
 **Practical Example:**
 
