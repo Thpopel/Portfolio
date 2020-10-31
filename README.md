@@ -37,7 +37,7 @@ Some methods I'll be using in my example of manipulating a dataframe include:
 - `unique`: Provides a list of unique values within that column
 
 To understand the use of these methods, we'll first import a dataframe, the dataframe is a list of the highest selling video games.
-**Importing a data file:** [Importing data](Import_daimport a dataframe. In this caseta.md)
+**Importing a data file:** [Importing data](Import_data.md)
 
 Next, we'll take a look at some of the descriptive statistics using describe()
 **Describe():** [Describing data](Describe.md)
