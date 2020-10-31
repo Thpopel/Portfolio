@@ -13,6 +13,6 @@ To begin this portfolio I'd like to start by showing a demonstration on slicing 
 **Please view my verbal demonstration on 1D array slicing:** [Demonstration Video](https://web.microsoftstream.com/video/74a2f817-cb5b-4a93-a108-637a08793719)
 
 **Jargon listed in this portfolio:**
-- Logical errors: Logical errors are errors that do not cause the program to terminate abnormally, but instead are mistakes in a program's code that cause it to produce an unexpected or incorrect response or calculation. 
+- **Logical errors:** Logical errors are errors that do not cause the program to terminate abnormally, but instead are mistakes in a program's code that cause it to produce an unexpected or incorrect response or calculation. 
 
 _Questions? Please email me at_: [tpope@dal.ca](mailto:th781530@dal.ca)
