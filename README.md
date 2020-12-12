@@ -14,6 +14,8 @@ To begin this portfolio I'd like to start by showing a demonstration on slicing 
 ### Descriptive Statistics and Manipulation of Dataframes:
 **Descriptive statistic** are another vital component of data analysis. By utilizing different tools provided by different modules, we can maximize efficiency and accuracy. 
 
+Please click [here](descriptivestats.md) to view this topic in greater detail.
+
 Some methods I'll be using in my example of manipulating a dataframe include:
 - `head`: Provides the option to view the first n items in our dataframe.
 - `type`: Provides the type of data we are working with
