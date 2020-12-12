@@ -1,5 +1,5 @@
 # Hello and Welcome!
-This portfolio it an opportunity for me to showcase some of the coding skills I have been working on over the past couple of months. 
+My name is Thomas, and I'm a Dalhousie Bachelor of Science student completing a major in Neuroscience with a minor in Computer Science. This portfolio is an opportunity for me to showcase some of the coding skills I have been developing over the past semester. Enjoy! 
 
 **Together, we will take a look at the following:**
 - Slicing 1D and 2D Lists/Arrays
