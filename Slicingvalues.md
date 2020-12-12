@@ -1,3 +1,5 @@
+### Slicing 1D and 2D Lists/Arrays:
+
 Welcome to my slicing values topic! Slicing values is a method used to access certain values by their index within a list. 
 
 Comprehending how to slice values from a list or an array correctly is something I learnt early on as being imperative to prevent `logical errors`. Afterwards, I will go into further simple examples of 1D and 2D slicing of lists, and provide a more realistic example. 
@@ -15,3 +17,7 @@ After viewing my demonstration, I'd like to highlight a couple key takeaways. Th
 1D Array: [Example of 1D Array](1D_Array.md)
 
 2D Array: [Example of 2D Array](2D_Array.md)
+
+**To demonstrate this skill in practice, here is a realistic example using slicing and the Pandas dataframe `ILOC method`:** 
+
+Practical Example using slicing and ILOC: [Practical Example](PracticalExample.md)
