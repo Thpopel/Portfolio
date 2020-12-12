@@ -3,13 +3,16 @@ My name is Thomas, and I'm a Bachelor of Science student completing a major in N
 
 **Together, we will take a look at the following:**
 - Slicing 1D and 2D Lists/Arrays
-- For Loops 
+- For Loops and Nested Loops
 - Descriptive Statistics and Manipulation of Dataframes
 - Exploratory Data Analysis
 - EEG Data Visualization 
 
 ### Slicing 1D and 2D Lists/Arrays:
 To begin this portfolio I'd like to start by showing a demonstration on slicing values from a 1D or 2D list, and/or arrays. Please click [here](Slicingvalues.md) to view this topic in greater detail. 
+
+### For loops and Nested Loops:
+Once I had a handle on slicing values from a list/array, and how to view specific items, it became important to be able to read multiple values in at once and compare them. For loops provide an excellent method of itterating through each item of a list. To view this topic, please click [here](loops.md)
 
 ### Descriptive Statistics and Manipulation of Dataframes:
 **Descriptive statistic** are another vital component of data analysis. By utilizing different tools provided by different modules, we can maximize efficiency and accuracy. 
