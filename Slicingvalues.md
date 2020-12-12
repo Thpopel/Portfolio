@@ -21,3 +21,5 @@ After viewing my demonstration, I'd like to highlight a couple key takeaways. Th
 **To demonstrate this skill in practice, here is a realistic example using slicing and the Pandas dataframe `ILOC method`:** 
 
 Practical Example using slicing and ILOC: [Practical Example](PracticalExample.md)
+
+- **Logical errors:** Logical errors are errors that do not cause the program to terminate abnormally, but instead are mistakes in a program's code that cause it to produce an unexpected or incorrect response or calculation. 
