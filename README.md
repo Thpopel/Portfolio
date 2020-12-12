@@ -9,7 +9,7 @@ My name is Thomas, and I'm a Dalhousie Bachelor of Science student completing a 
 - EEG Data Visualization 
 
 ### Slicing 1D and 2D Lists/Arrays:
-To begin this portfolio I'd like to start by showing a demonstration on slicing values from a 1D or 2D list, and/or arrays. Please click [here](SlicingValues) to view this topic in greater detail. 
+To begin this portfolio I'd like to start by showing a demonstration on slicing values from a 1D or 2D list, and/or arrays. Please click [here](Slicingvalues.md) to view this topic in greater detail. 
 Slicing values is a method used to access certain values by their index within a list. You may 
 
 Comprehending how to slice values from a list or an array correctly is something I learnt early on as being imperative to prevent `logical errors`. Afterwards, I will go into further simple examples of 1D and 2D slicing of lists, and provide a more realistic example. 
