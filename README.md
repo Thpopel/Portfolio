@@ -1,7 +1,7 @@
 # Hello and Welcome!
 My name is Thomas, and I'm a Bachelor of Science student completing a major in Neuroscience with a minor in Computer Science at Dalhousie University in Halifax, Nova Scotia. This portfolio is an opportunity for me to showcase some of the coding skills I have been developing over the past semester. Enjoy! 
 
-**Together, we will take a look at the following:**
+**Together, we will take a look at the following topics:**
 - Slicing 1D and 2D Lists/Arrays
 - For Loops and Nested Loops
 - Descriptive Statistics and Manipulation of Dataframes
@@ -22,9 +22,5 @@ Please click [here](descriptivestats.md) to view this topic in greater detail.
 ### Exploratory Data Analysis:
 I learned very early on of the benefits of **Exploratory Data Analysis (EDA)** in communicating results. Carrying on with our video game data calculations, lets visualize the results.
 - **Data visualization:** [Data visualization](Datapic.ipynb)
-
-**Jargon Listed in this Portfolio:**
-- **Logical errors:** Logical errors are errors that do not cause the program to terminate abnormally, but instead are mistakes in a program's code that cause it to produce an unexpected or incorrect response or calculation. 
-- **Pandas ILOC method:** The LOC method returns rows from a dataframe given an inputted integer slice. 
 
 _Questions? Please email me at_: [tpope@dal.ca](mailto:th781530@dal.ca)
