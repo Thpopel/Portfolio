@@ -26,7 +26,7 @@ Once I had a handle on slicing values from a list/array, and how to view specifi
 Please click [here](descriptivestats.md) to view this topic in greater detail.
 
 ### Exploratory Data Analysis:
-Communicating your results visually is also another vital component of presenting them effectively. Please take a look at my topic on **Exploratory Data Analysis (EDA)** [here](dataviz.md) Carrying on with our video game data calculations, lets visualize the results.
+Communicating your results visually is also another vital component of presenting them effectively. Please take a look at my topic on **Exploratory Data Analysis (EDA)** [here](dataviz.md). Carrying on with our video game data calculations, lets visualize the results.
 
 ### Biomedical Image Analysis
 Lastly, to conclude this portfolio I'd like to highlight some of the Biomedical Image Analysis that can be done. Please click [here](eeg.md) to view this topic. 
