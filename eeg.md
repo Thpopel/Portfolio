@@ -19,7 +19,7 @@ To begin, we'll take a look at one brain image alone.
 <img src="c.5.png" width="150"/>
 
 Perfect! This code has done exactly what we needed it to do. How about instead of a 2D slice, we now want to look at a 3D volume of multiple slices of the brain. 
-This can be done using the following code segment: 
+This can be done using the following: 
 
 **Read in the volume file:**
 
