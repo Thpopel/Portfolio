@@ -12,7 +12,7 @@ To begin, we'll take a look at one brain image alone.
 
 <img src="1.png" width="600"/>
 
-**Once we have this information, let's visualize it using plt.imshow() and use a gray colour map. Lastly, we'll turn off axis for a better view and use plt.show() to see the image we have created.**
+**Once we have this information, let's visualize it using plt.imshow() and use a gray colour map. Lastly, we'll turn off axis for a better view and use plt.show() to see the image we have created:**
 
 <img src="1.png" width="600"/>
 
