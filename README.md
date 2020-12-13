@@ -4,11 +4,12 @@ My name is Thomas, and I'm a Bachelor of Science student completing a major in N
 As an additional note before you view my portfolio, any words that are `highlighted` may be jargon, please view an explanation of the term at the bottom of any topic. 
 
 **Together, we will take a look at the following topics:**
+- Errors in Coding
 - Slicing 1D and 2D Lists/Arrays
 - For Loops and Nested Loops
 - Descriptive Statistics and Manipulation of Dataframes
 - Exploratory Data Analysis
-- EEG Data Visualization 
+- Biomedical Image Analysis
 
 ### Errors in Coding
 To begin this portfolio I'd like to start by illustrating the types of errors that may occur when coding - I have placed this demonstration first as it's foundational to how I avoided them in the remainder of my code. Please click [here](https://web.microsoftstream.com/video/a517a3bc-c3e1-4cb2-96b4-e2fc3ff9797d) to take a look at my verbal demonstration on error checking.
