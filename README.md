@@ -27,4 +27,7 @@ Please click [here](descriptivestats.md) to view this topic in greater detail.
 ### Exploratory Data Analysis:
 Communicating your results visually is also another vital component of presenting them effectively. Please take a look at my topic on **Exploratory Data Analysis (EDA)** [here](dataviz.md) Carrying on with our video game data calculations, lets visualize the results.
 
-_Questions? Please email me at_: [tpope@dal.ca](mailto:th781530@dal.ca)
+### EEG Data Visualization
+Lastly, to conclude this portfolio I'd like to highlight some of the EEG data visualization that can be done. Please click [here](eeg.md) to view this topic. 
+
+_Thank you for viewing my portfolio! Questions? Please email me at_: [tpope@dal.ca](mailto:th781530@dal.ca)
