@@ -1,7 +1,7 @@
 # Hello and Welcome!
 My name is Thomas, and I'm a Bachelor of Science student completing a major in Neuroscience with a minor in Computer Science at Dalhousie University in Halifax, Nova Scotia. This portfolio is an opportunity for me to showcase some of the coding skills I have been developing over the past semester. Enjoy! 
 
-### As an additional note before you view my portfolio, any words that are **highlighted** may be jargon, please view an explanation of the term at the bottom of any topic. 
+As an additional note before you view my portfolio, any words that are **highlighted** may be jargon, please view an explanation of the term at the bottom of any topic. 
 
 **Together, we will take a look at the following topics:**
 - Slicing 1D and 2D Lists/Arrays
