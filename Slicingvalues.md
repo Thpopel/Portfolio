@@ -24,8 +24,6 @@ After viewing my demonstration, I'd like to highlight a couple key takeaways. Th
 
 **To demonstrate this skill in practice, here is a realistic example using slicing and the Pandas dataframe `ILOC method`:** 
 
-**Practical Example using slicing and ILOC:**
-
 <img src="3.png" width="600"/>
 
 **Jargon Listed in this Topic:**
