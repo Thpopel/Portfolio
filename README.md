@@ -10,7 +10,7 @@ As an additional note before you view my portfolio, any words that are **highlig
 - Exploratory Data Analysis
 - EEG Data Visualization 
 
-## Errors in Coding
+### Errors in Coding
 TO begin this portfolio I'd like to start by illustrating the types of errors that may occur when coding - I have placed this demonstration first as it's foundational to how I avoided them in the remainder of my code. 
 
 ### Slicing 1D and 2D Lists/Arrays:
