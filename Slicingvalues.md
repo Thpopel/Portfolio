@@ -13,10 +13,11 @@ After viewing my demonstration, I'd like to highlight a couple key takeaways. Th
 - **Index values** start at **zero**. 
 
 **With this in mind, here are some further simple examples:** 
+1D Array: 
+<img src="1.png" width="400"/>  
 
-1D Array: [Example of 1D Array](1D_Array.md)
-
-2D Array: [Example of 2D Array](2D_Array.md)
+2D Array:
+<img src="2.png" width="200"/>  
 
 **To demonstrate this skill in practice, here is a realistic example using slicing and the Pandas dataframe `ILOC method`:** 
 
