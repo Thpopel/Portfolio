@@ -22,7 +22,6 @@ Once I had a handle on slicing values from a list/array, and how to view specifi
 Please click [here](descriptivestats.md) to view this topic in greater detail.
 
 ### Exploratory Data Analysis:
-I learned very early on of the benefits of **Exploratory Data Analysis (EDA)** in communicating results. Carrying on with our video game data calculations, lets visualize the results.
-- **Data visualization:** [Data visualization](Datapic.ipynb)
+Communicating your results visually is also another vital component of presenting them effectively. Please take a look at my topic on **Exploratory Data Analysis (EDA)** [here](dataviz.md) Carrying on with our video game data calculations, lets visualize the results.
 
 _Questions? Please email me at_: [tpope@dal.ca](mailto:th781530@dal.ca)
