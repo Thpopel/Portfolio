@@ -14,10 +14,12 @@ After viewing my demonstration, I'd like to highlight a couple key takeaways. Th
 
 **With this in mind, here are some further simple examples:** 
 
-1D Array: 
+### 1D Array: 
+
 <img src="1.png" width="600"/>  
 
-2D Array:
+### 2D Array:
+
 <img src="2.png" width="600"/>  
 
 **To demonstrate this skill in practice, here is a realistic example using slicing and the Pandas dataframe `ILOC method`:** 
