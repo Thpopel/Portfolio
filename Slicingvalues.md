@@ -14,11 +14,11 @@ After viewing my demonstration, I'd like to highlight a couple key takeaways. Th
 
 **With this in mind, here are some further simple examples:** 
 
-### 1D Array: 
+**Slicing 1D Array**: 
 
 <img src="1.png" width="600"/>  
 
-### 2D Array:
+**Slicing 2D Array**:
 
 <img src="2.png" width="600"/>  
 
