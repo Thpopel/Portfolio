@@ -8,7 +8,7 @@ To begin, we'll take a look at one brain image alone.
 
 <img src="a.png" width="700"/>  
 
-**Next, we can call on .meta to get a list of pertinent information regarding the image:**
+**Next, we can call on .meta to get a list of pertinent information regarding the image. Information such as patient name, ID, and weight:**
 
 <img src="b.png" width="700"/>
 
