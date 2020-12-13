@@ -1,6 +1,6 @@
 ### Slicing 1D and 2D Lists/Arrays:
 
-Welcome to my slicing values topic! Slicing values is a method used to access certain values by their index within a list. 
+Welcome to my slicing values topic! Slicing values is a method used to access certain values by their index within a list or array. 
 
 Comprehending how to slice values from a list or an array correctly is something I learnt early on as being imperative to prevent `logical errors`. Afterwards, I will go into additional simple examples of 1D and 2D slicing of lists, and provide a more realistic example. 
 
