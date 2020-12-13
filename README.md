@@ -11,7 +11,7 @@ As an additional note before you view my portfolio, any words that are `highligh
 - EEG Data Visualization 
 
 ### Errors in Coding
-TO begin this portfolio I'd like to start by illustrating the types of errors that may occur when coding - I have placed this demonstration first as it's foundational to how I avoided them in the remainder of my code. 
+To begin this portfolio I'd like to start by illustrating the types of errors that may occur when coding - I have placed this demonstration first as it's foundational to how I avoided them in the remainder of my code. 
 
 ### Slicing 1D and 2D Lists/Arrays:
 Secondly, I'd like to continue by showing a demonstration on slicing values from a 1D or 2D list, and/or arrays. Please click [here](Slicingvalues.md) to view this topic in greater detail. 
