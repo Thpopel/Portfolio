@@ -29,11 +29,11 @@ This can be done using the following code segment:
 
 <img src="e.png" width="600"/>
 
-<img src="f.png" width="200"/>
+<img src="g.png" width="200"/>
 
 **That worked great as well, but in order to get the big picture, we'll need to incoorporate another topic from my portfolio; For Loops. In the code below, we'll use a For Loop to itterate through mutliple slices, and add them to a subplot:**
 
-<img src="g.png" width="600"/>
+<img src="f.png" width="600"/>
 
 <img src="h.png" width="200"/>
 <img src="i.png" width="200"/>
