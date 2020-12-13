@@ -6,7 +6,7 @@ To begin, we'll take a look at one brain image alone.
 
 **Let's read in the file we would like to look at:**
 
-<img src="1.png" width="600"/>  
+<img src="a.png" width="600"/>  
 
 **Next, we can call on .meta to get a list of pertinent information regarding the image:**
 
