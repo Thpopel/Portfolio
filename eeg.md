@@ -35,10 +35,10 @@ This can be done using the following:
 
 <img src="f.png" width="600"/>
 
-<img src="h.png" width="200"/>
-<img src="i.png" width="200"/>
-<img src="j.png" width="200"/>
-<img src="k.png" width="200"/>
+<img src="h.png" width="300"/>
+<img src="i.png" width="300"/>
+<img src="j.png" width="300"/>
+<img src="k.png" width="300"/>
 
 The code above include a subplot counter to signify where to add the next image to in our subplot. Our 4 x 4 subplot displays 16 images from our volume collection. 1 slice for every 10 images within the collection. 
 plt.tight_layout allows for our 16 image subplot to be small and to remove excess space around each image. 
