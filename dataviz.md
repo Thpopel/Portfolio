@@ -10,3 +10,5 @@ Carrying on with my previous topic in descriptive statistic and manipulating dat
 **Graph:**
 
 <img src="EDA2.png" width="700"/>  
+
+If you have any questions about the code that's applied in this example, please take a look at my previous topic on descriptive statistics for a summary!
