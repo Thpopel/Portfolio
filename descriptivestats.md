@@ -8,7 +8,7 @@ Some methods I'll be using in my example of manipulating a dataframe include:
 - `describe`: Provides an overall view of the descriptive statistics 
 - `unique`: Provides a list of unique values within that column
 
-To understand the use of these methods, we'll first import a dataframe. The dataframe is a list of the highest selling video games.
+To understand the use of these methods, we'll first import a dataframe. The dataframe is a list of the highest selling video games. In this image I'll also use `head` to view the first few items in our dataframe. 
 - **Importing a data file:** 
 
 <img src="import.png" width="600"/>  
