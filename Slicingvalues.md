@@ -27,5 +27,5 @@ After viewing my demonstration, I'd like to highlight a couple key takeaways. Th
 <img src="3.png" width="600"/>
 
 **Jargon Listed in this Topic:**
-- **Logical errors:** Logical errors are errors that do not cause the program to terminate abnormally, but instead are mistakes in a program's code that cause it to produce an unexpected or incorrect response or calculation. 
+- **Logical errors:** Logical errors are errors that do not cause the program to terminate abnormally, but instead are mistakes in a program's code that cause it to produce an unexpected or incorrect response or calculation. For more information on logical errors, please view my errors topic. 
 - **Pandas ILOC method:** The ILOC method returns rows from a dataframe given an inputted integer slice. 
