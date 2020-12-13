@@ -1,3 +1,7 @@
+### Descriptive Statistics:
+
+Welcome to my descriptive statistics topic!
+
 Some methods I'll be using in my example of manipulating a dataframe include:
 - `head`: Provides the option to view the first n items in our dataframe.
 - `type`: Provides the type of data we are working with
